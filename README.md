@@ -32,3 +32,5 @@ Server Side Rendering 지원
 [CSS](https://www.notion.so/CSS-ca2a76497073441fbe01db4299264b33?pvs=21)
 
 [Backend](https://www.notion.so/Backend-94b79dc940124e7b9f748e1a6f99529a?pvs=21)
+
+[글 목록 가져오기](https://www.notion.so/5d8e2b237e30483ea6a974cb1d47e880?pvs=21)
