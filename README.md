@@ -36,3 +36,5 @@ Server Side Rendering 지원
 [글 목록 가져오기](https://www.notion.so/5d8e2b237e30483ea6a974cb1d47e880?pvs=21)
 
 [읽기 기능 구현](https://www.notion.so/209a458f553a4198b3a8d6e72b494eb1?pvs=21)
+
+[생성 기능 구현 - Client component](https://www.notion.so/Client-component-7ddbb3b9f2a64cb397fa11c009639924?pvs=21)
