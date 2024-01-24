@@ -1,5 +1,6 @@
 import Link from "next/link";
 import "./globals.css";
+import { Control } from "./Control";
 export const metadata = {
   title: "WEB tutorial",
   description: "Learning Next.js",
@@ -25,17 +26,7 @@ export default async function RootLayout({ children }) {
           })}
         </ol>
         {children}
-        <ul>
-          <li>
-            <Link href="/create">create</Link>
-          </li>
-          <li>
-            <Link href="/update/id">update</Link>
-          </li>
-          <li>
-            <button>delete</button>
-          </li>
-        </ul>
+        <Control />
       </body>
     </html>
   );
