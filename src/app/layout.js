@@ -5,9 +5,10 @@ export const metadata = {
   description: "Learning Next.js",
 };
 export default async function RootLayout({ children }) {
-  const resp = await fetch("http://localhost:9999/topics");
+  const resp = await fetch("http://localhost:9999/topics/", {
+    cache: "no-cache",
+  });
   const topics = await resp.json();
-
   return (
     <html>
       <body>
