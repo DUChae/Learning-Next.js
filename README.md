@@ -40,3 +40,5 @@ Server Side Rendering 지원
 [생성 기능 구현 - Client component](https://www.notion.so/Client-component-7ddbb3b9f2a64cb397fa11c009639924?pvs=21)
 
 [Cache](https://www.notion.so/Cache-7abbd543669e40f289dca3301f2f4a26?pvs=21)
+
+[필요할 때 Update, Delete 기능 보이기](https://www.notion.so/Update-Delete-6d178c2c088849de838525d6112fd85e?pvs=21)
