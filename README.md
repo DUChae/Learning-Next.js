@@ -38,3 +38,5 @@ Server Side Rendering 지원
 [읽기 기능 구현](https://www.notion.so/209a458f553a4198b3a8d6e72b494eb1?pvs=21)
 
 [생성 기능 구현 - Client component](https://www.notion.so/Client-component-7ddbb3b9f2a64cb397fa11c009639924?pvs=21)
+
+[Cache](https://www.notion.so/Cache-7abbd543669e40f289dca3301f2f4a26?pvs=21)
