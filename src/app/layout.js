@@ -1,6 +1,6 @@
 import Link from "next/link";
 import "./globals.css";
-import { Control } from "./Control";
+import Control from "./Control";
 export const metadata = {
   title: "WEB tutorial",
   description: "Learning Next.js",
