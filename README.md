@@ -44,3 +44,5 @@ Server Side Rendering 지원
 [필요할 때 Update, Delete 기능 보이기](https://www.notion.so/Update-Delete-6d178c2c088849de838525d6112fd85e?pvs=21)
 
 [글 수정](https://www.notion.so/14ca9e17ce494319ab2a10c1db75ef75?pvs=21)
+
+[글 삭제](https://www.notion.so/40047204e80843e295fefe76f1073a57?pvs=21)
