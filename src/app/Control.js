@@ -2,11 +2,10 @@
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 
-export default function Control() {
+export function Control() {
   const router = useRouter();
   const params = useParams();
   const id = params.id;
-
   return (
     <ul>
       <li>
@@ -20,9 +19,12 @@ export default function Control() {
           <li>
             <button
               onClick={async () => {
-                const resp = await fetch(`http://localhost:9999/topics/${id}`, {
-                  method: "DELETE",
-                });
+                const resp = await fetch(
+                  `${process.env.NEXT_PUBLIC_API_URL}topics/${id}`,
+                  {
+                    method: "DELETE",
+                  }
+                );
                 await resp.json();
                 router.push("/");
                 router.refresh();
@@ -35,7 +37,4 @@ export default function Control() {
       ) : null}
     </ul>
   );
-  <font face="NanumGothic, sans-serif">
-    <span style="font-size: 10.89px; white-space: normal;"></span>
-  </font>;
 }
