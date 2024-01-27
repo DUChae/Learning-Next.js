@@ -46,3 +46,5 @@ Server Side Rendering 지원
 [글 수정](https://www.notion.so/14ca9e17ce494319ab2a10c1db75ef75?pvs=21)
 
 [글 삭제](https://www.notion.so/40047204e80843e295fefe76f1073a57?pvs=21)
+
+[환경변수](https://www.notion.so/6b7e5e38570440ddba50b8df729f4c38?pvs=21)
